@@ -21,4 +21,4 @@ No Activity Tracked This Week
 <!--END_SECTION:waka-->
 
 ### Snake Graph
-![snake gif](https://github.com/tqlucitvn/tqlucitvn/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/tqlucitvn/tqlucitvn/dist/output/github-contribution-grid-snake.gif)
