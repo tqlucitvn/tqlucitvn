@@ -19,3 +19,6 @@ No Activity Tracked This Week
 
  Last Updated on 25/07/2024 16:28:31 UTC
 <!--END_SECTION:waka-->
+
+### Snake Graph
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
