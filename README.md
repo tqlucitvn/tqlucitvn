@@ -1,6 +1,24 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
- Last Updated on 25/07/2024 17:09:08 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+Other                    0 secs              █████████████░░░░░░░░░░░░   53.09 % 
+HTML                     0 secs              ████████████░░░░░░░░░░░░░   46.91 % 
+
+🔥 Editors: 
+VS Code                  0 secs              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  0 secs              █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 25/07/2024 17:26:35 UTC
 <!--END_SECTION:waka-->
 
 ### Snake Graph
