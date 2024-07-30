@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -18,7 +18,7 @@ Windows                  2 mins              ███████████�
 ```
 
 
- Last Updated on 30/07/2024 09:40:28 UTC
+ Last Updated on 30/07/2024 09:47:45 UTC
 <!--END_SECTION:waka-->
 
 ### Snake Graph
