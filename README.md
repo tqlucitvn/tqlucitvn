@@ -6,7 +6,7 @@ If you’re reading this, I just want to say that I would be thrilled to be a fr
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2014%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -14,19 +14,19 @@ If you’re reading this, I just want to say that I would be thrilled to be a fr
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               44 mins             █████████████████████████   99.67 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+JavaScript               57 mins             ████████████████████████░   97.90 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-VS Code                  44 mins             █████████████████████████   100.00 % 
+VS Code                  58 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  44 mins             █████████████████████████   100.00 % 
+Windows                  58 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/08/2024 17:13:07 UTC
+ Last Updated on 08/08/2024 17:27:31 UTC
 <!--END_SECTION:waka-->
 
 ### Snake Graph
