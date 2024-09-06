@@ -14,17 +14,17 @@ If you’re reading this, I just want to say that I would be thrilled to be a fr
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-CSS                      2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/09/2024 17:12:12 UTC
+ Last Updated on 06/09/2024 17:25:47 UTC
 <!--END_SECTION:waka-->
 
 ### Snake Graph
