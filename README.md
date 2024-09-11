@@ -6,7 +6,7 @@ If you’re reading this, I just want to say that I would be thrilled to be a fr
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2041%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -28,7 +28,7 @@ Windows                  1 hr 46 mins        ███████████�
 ```
 
 
- Last Updated on 11/09/2024 07:59:08 UTC
+ Last Updated on 11/09/2024 08:23:00 UTC
 <!--END_SECTION:waka-->
 
 ### Snake Graph
