@@ -14,19 +14,17 @@ If you’re reading this, I just want to say that I would be thrilled to be a fr
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               6 mins              ███████████████░░░░░░░░░░   61.61 % 
-JSON                     2 mins              ███████░░░░░░░░░░░░░░░░░░   27.65 % 
-TypeScript               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/09/2024 17:17:05 UTC
+ Last Updated on 30/09/2024 17:31:33 UTC
 <!--END_SECTION:waka-->
 
 ### Snake Graph
